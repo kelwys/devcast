@@ -1,4 +1,5 @@
 import { GetStaticProps } from 'next';
+import Head from "next/head";
 import Link from "next/link";
 import Image from 'next/image';
 import { format, parseISO } from 'date-fns';
@@ -32,6 +33,9 @@ export default function Home({ allEpisodes, latestEpisodes }: HomeProps) {
 
   return (
     <div className={styles.homepage}>
+      <Head>
+        <title>Home | DevCast</title>
+      </Head>
       <section className={styles.latestEpisodes}>
         <h2>Últimos lançamentos</h2>
         <ul>
