@@ -29,8 +29,8 @@ export function Header() {
     <header className={styles.headerContainer}>
       <Link href={`/`}>
         <img src={
-          currentTheme == 'light' ? 'logo-dark.svg' 
-          : 'logo-light.svg'} 
+          currentTheme == 'light' ? '/logo-dark.svg' 
+          : '/logo-light.svg'} 
           alt="DevCast"
         />
       </Link>
