@@ -5,13 +5,13 @@
 }
 
 :root {
-  --white: #FFF;
+  --background: #F7F8FA;
+  --bg-secundary: #FFF;
 
-  --gray-50: #F7F8FA;
-  --gray-100: #E6E8EB;
-  --gray-200: #AFB2B1;
-  --gray-500: #808080;
-  --gray-800: #494D4B;
+  --primary-100: #E6E8EB;
+  --primary-200: #AFB2B1;
+  --primary-500: #808080;
+  --primary-800: #494D4B;
 
   --green-500: #04D361;
   
@@ -19,6 +19,16 @@
   --purple-400: #9164FA; 
   --purple-500: #8257E5;
   --purple-800: #6F48C9;
+
+  .dark-mode{
+    --background: #282a36;
+    --bg-secundary: #44475a;
+
+    --primary-100: #0c0b12;
+    --primary-200: #afb2b1;
+    --primary-500: #e6e8eb;
+    --primary-800: #f7f8fa;
+  }
 }
 
 
@@ -41,18 +51,18 @@
 }
 
 body {
-  background: var(--gray-50);
+  background: var(--background);
 }
 
 body, input, textarea, button {
   font: 500 1rem Inter, sans-serif;;
-  color: var(--gray-500);
+  color: var(--primary-500);
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-family: Leend, sans-serif;
-  color: var(--gray-800);
+  color: var(--primary-800);
 }
 
 h1 {
