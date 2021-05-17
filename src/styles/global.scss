@@ -13,6 +13,7 @@
   --primary-500: #808080;
   --primary-800: #494D4B;
 
+  --green-200: #04d36195;
   --green-500: #04D361;
   
   --purple-300: #9F75FF;
@@ -75,4 +76,15 @@ h2 {
 
 button {
   cursor: pointer;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--bg-secundary);
+}
+::-webkit-scrollbar {
+  width: 6px;
+  background: var(--green-200);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--green-200);
 }
