@@ -64,7 +64,8 @@ Project developed during **NLW5** offered by [Rocketseat](https://rocketseat.com
 - [x] Episode page:
   - [x] Description and additional information about the episode;
 - [x] Black end light theme;
-- [ ] Replace fake api with real python api
+- [x] Replace fake api with real python api
+- [ ] Tests
 
 
 
@@ -84,7 +85,10 @@ Project developed during **NLW5** offered by [Rocketseat](https://rocketseat.com
 
 ## 🚀 Getting Started
 
-First, run the development server:
+This project contains 2 parts:
+Backend and Frontend. First, visit and configure the backend [HERE](https://github.com/kelwys/devcast-api).
+
+Later, run the development server:
 
 ```bash
 # Clone Repository
@@ -97,7 +101,6 @@ $ cd devcast
 $ yarn
 
 # Run Aplication
-$ yarn server
 $ yarn dev
 
 # Access localhost
@@ -111,6 +114,7 @@ http://localhost:3000
 The following tools were used in the construction of the project:
 
 - **[ReactJS](https://reactjs.org)**
+- **[Next](https://nextjs.org)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[css-Modules](https://github.com/css-modules/css-modules)**
 - **[Sass](https://sass-lang.com/)**
