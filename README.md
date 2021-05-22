@@ -65,6 +65,7 @@ Project developed during **NLW5** offered by [Rocketseat](https://rocketseat.com
   - [x] Description and additional information about the episode;
 - [x] Black end light theme;
 - [x] Replace fake api with real python api
+- [ ] Mobile responsive
 - [ ] Tests
 
 
