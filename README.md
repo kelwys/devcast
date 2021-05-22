@@ -46,7 +46,7 @@ Listen to the best technology podcast
 
 Project developed during **NLW5** offered by [Rocketseat](https://rocketseat.com.br/) - NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
 
-<!-- ***You can see the first version [here](https://devcast-virid.vercel.app/)!*** -->
+***You can see [here](https://devcast.vercel.app)!***
 
 <h2 id="next-steps" > ✅ Next steps: </h2>
 
@@ -87,7 +87,7 @@ Project developed during **NLW5** offered by [Rocketseat](https://rocketseat.com
 ## 🚀 Getting Started
 
 This project contains 2 parts:
-Backend and Frontend. First, visit and configure the backend [HERE](https://github.com/kelwys/devcast-api).
+Backend and Frontend. First, visit and configure the backend [here](https://github.com/kelwys/devcast-api).
 
 Later, run the development server:
 
