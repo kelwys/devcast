@@ -137,13 +137,16 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 id="author"> 💻 Author </h2>
 
-<img style="border-radius: 50% !important;" src="https://kelwys.github.io/images/avatar.png" width="100px;" alt="photo author"/>
+<img style="border-radius: 50% !important;" src="https://kelwys.github.io/assets/images/avatar.png" width="100px;" alt="photo author"/>
 
  <sub><b>Kelwy Oliveira</b></sub></a> <a href="https://www.linkedin.com/in/kelwyoliveira/" title="kelwy`s linkedin">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelwyoliveira/)](https://www.linkedin.com/in/kelwyoliveira/)
-[![Gmail Badge](https://img.shields.io/badge/-kelwyduarte@gmail.com-000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kelwyduarte@gmail.com)](mailto:kelwyduarte@gmail.com)
+If you want to do a project with me or chat, don't hesitate to send me a message: ⤵️
+<p align="left">
+  <a href="https://www.linkedin.com/in/kelwyoliveira/"><img src="https://img.shields.io/badge/-kelwyoliveira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:kelwyduarte@gmail.com"><img src="https://img.shields.io/badge/-kelwyduarte@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</p>
 
 ---
 
